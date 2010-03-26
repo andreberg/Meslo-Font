@@ -1,13 +1,23 @@
 h1. About Meslo Regular
 
-Meslo-Regular is a customized version of Apple's Menlo-Regular (which is a customized Bitstream Vera Sans Mono). 
+Meslo-Regular is a customized version of Apple's Menlo-Regular 
+(which in turn is a customized Bitstream Vera Sans Mono). 
 
-In Snow Leopard, Menlo-Regular is now the default font for Apple's developer tools and also the Terminal (unless you changed the font settings for these apps yourself before upgrading to SL - your changes will stay in place).
+In Snow Leopard, Menlo-Regular is now the default font for Apple's developer tools 
+and also the Terminal (unless you changed the font settings for these apps yourself 
+before upgrading to SL - your changes will stay in place).
 
-I really like Menlo (and also all other fonts preceding it like DejaVu, Andale Mono, Panic Sans, and of course Vera Mono) but I had one nitpicky gripe with it: 
+I really like Menlo and also all the other fonts preceding it like DejaVu, Andale Mono 
+and of course Vera Mono but I had two nitpicky gripes with it: 
 
-* The default vertical (line) spacing is just way to cramped for me (and I also don't like the horizontal baseline alignment of the asterisk).
+* The default vertical (line) spacing is just way to cramped for me 
+* I don't like the horizontal baseline alignment of the asterisk.
 
-That's why I decided to customize Menlo, regarding these issues. The tricky part is keeping all the custom tables, hints, etc. intact when you adjust the globally very affecting stuff that results in vertical spacing. I also left all the copyright stuff in place of course. 
+That's why I decided to customize Menlo, regarding these issues. 
 
-If you're interested, you can find screenshots on the wiki showing Menlo and Meslo in "comparison":http://wiki.github.com/andreberg/Meslo-Font.
+The tricky part is keeping all the custom tables, hints, etc. intact when you adjust the
+globally very affecting stuff that results in vertical spacing. And of course I left all 
+the copyright stuff in place. 
+
+If you're interested, you can find screenshots on the wiki showing Menlo and Meslo in 
+"comparison":http://wiki.github.com/andreberg/Meslo-Font.
