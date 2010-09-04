@@ -28,10 +28,10 @@ For more info and comparisons please consult the About PDF that comes with the
 downladable ZIP archive. 
 
 For a possible way to install this font on your Windows console please see 
-"Using Meslo LG with the Windows Console":http://wiki.github.com/andreberg/Meslo-Font.
+"Using Meslo LG with the Windows Console":http://wiki.github.com/andreberg/Meslo-Font/using-meslo-lg-with-the-windows-console.
 
-NOTE: downloads are provided in the "Downloads":http://github.com/andreberg/Meslo-Font/downloads section. 
-Cloning the repo will just get you this README :)
+%{color:crimson}NOTE: downloads are provided in the "Downloads":http://github.com/andreberg/Meslo-Font/downloads section. 
+Cloning the repo will just get you this README :)%
 
 Have Fun!
 
