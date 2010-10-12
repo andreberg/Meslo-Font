@@ -65,6 +65,9 @@ This includes making it line up with all alignment zones for similar height
 symbol characters and fixing Menlo's absence of a slanting angle for the italic 
 and bold italic font styles while maintaining the readability at all sizes.
 
+v1.0
+
+Added a dotted zero version of Meslo LG which is called Meslo LG DZ.
 
 h3. Copyright and Trademark Information
 
