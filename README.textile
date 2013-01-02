@@ -1,6 +1,6 @@
 h1. About Meslo LG
 
-h3. Version 1.00
+h3. Version 1.20
 
 Meslo LG is a customized version of Apple's Menlo-Regular font
 (which is a customized Bitstream Vera Sans Mono).
@@ -34,8 +34,8 @@ For more articles please refer to the "Meslo-Font Wiki":http://github.com/andreb
 Last, but not least, for additional info and comparisons please consult the About PDF that comes with the 
 downladable ZIP archive.
 
-%{color:crimson}NOTE: downloads are provided in the "Downloads":http://github.com/andreberg/Meslo-Font/downloads section.%
-%{color:crimson}Cloning the repo will just get you this README :)%
+%{color:crimson}NOTE: the downloads tab is no longer supported on GitHub.%
+%{color:crimson}This just means you now download the font through the repository ZIP<br>which you can get up top or% "HERE":http://github.com/andreberg/Meslo-Font/archive/master.zip
 
 Have Fun!
 
@@ -73,6 +73,19 @@ v1.0
 
 Added a dotted zero version of Meslo LG which is called Meslo LG DZ.
 
+v1.2
+
+- reworked all OS/2 metrics to perform uniformely across platforms...  
+
+- ...which should fix issues with monospace layout and line height on Windows.  
+  (tests in Notepad, Eclipse and Visual Studio 2012 Express on Windows 7 x64 SP1  
+  look promising).
+  
+  <i>Note: if you are on OS X and are currently happy with Meslo v1.0 there is  
+  no need to upgrade to v1.2 since this version is just fixes for Windows mostly.  
+  Also, sorry, no Arabic support yet since I haven't found a Bitstream like font  
+  that allows extracting portions of arabic code pages to be used in another font.</i>
+
 h3. Copyright and Trademark Information
 
 Menlo is a Trademark of Apple Inc. 
@@ -87,10 +100,14 @@ Copyright © 2003 by Bitstream, Inc. All Rights Reserved.
 All other brands and product names not specifically listed are trademarks or 
 registered trademarks of their respective owners.
 
+h3. Thanks
+
+Thank you to Jim Lyles and Bitstream for the Bitstream Vera family of fonts.
+Also, huge thanks to George Williams for the free font editing program "FontForge":http://fontforge.org.
 
 h3. License
 
-Copyright 2009, 2010 André Berg
+Copyright 2009, 2010, 2013 André Berg
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
