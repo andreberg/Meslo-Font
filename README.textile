@@ -81,6 +81,13 @@ v1.2
   (tests in Notepad, Eclipse and Visual Studio 2012 Express on Windows 7 x64 SP1  
   look promising).
   
+v1.2.1
+
+- improved ClearType and DirectWrite hinting on Windows 7+ systems.
+
+- fixed a hinting issue on Windows making the 0 (zero) glyph appear taller for   
+  some PPEM sizes.
+
   <i>Note: if you are on OS X and are currently happy with Meslo v1.0 there is  
   no need to upgrade to v1.2 since this version is just fixes for Windows mostly.  
   Also, sorry, no Arabic support yet since I haven't found a Bitstream like font  
