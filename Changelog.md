@@ -1,4 +1,4 @@
-v1.2.1
+# v1.2.1
 
 - improved ClearType and DirectWrite hinting on Windows 7+ systems.
 
@@ -11,7 +11,7 @@ for Windows mostly. Also, sorry, no Arabic support yet since I
 haven't found a Bitstream like font that allows extracting portions
 of Arabic code pages to be used in another font.*
 
-v1.2
+# v1.2
 
 - reworked all OS/2 metrics to perform uniformly across platforms...
 
@@ -19,7 +19,7 @@ v1.2
   (tests in Notepad, Eclipse and Visual Studio 2012 Express on Windows 7 x64 SP1  
   look promising).
 
-v1.0
+# v1.0
 
 Meslo has changed its name to Meslo LG which now includes three
 variants: small, medium and large.
@@ -45,7 +45,7 @@ at all sizes.
 
 Added a dotted zero version of Meslo LG which is called Meslo LG DZ.
 
-v0.1
+# v0.1
 
 Initial release.
 
