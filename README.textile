@@ -12,7 +12,7 @@ these apps yourself before upgrading to SL - your changes will stay in place).
 I really like Menlo but I do have my nitpicky gripes with it: 
 
 * The default vertical (line) spacing is just way to cramped for me, and also  
-* I am not particularily fond of the horizontal baseline alignment of the asterisk.
+* I am not particularly fond of the horizontal baseline alignment of the asterisk.
 
 That's why I decided to customize Menlo, regarding these "issues".
 The tricky part is keeping all the custom tables, hints, etc. intact when you 
@@ -32,7 +32,7 @@ You can find a FAQ "here":http://github.com/andreberg/Meslo-Font/wiki/Frequently
 
 For more articles please refer to the "Meslo-Font Wiki":http://github.com/andreberg/Meslo-Font/wiki.
 Last, but not least, for additional info and comparisons please consult the About PDF that comes with the 
-downladable ZIP archive.
+downloadable ZIP archive.
 
 %{color:crimson}NOTE: the downloads tab is no longer supported on GitHub.%
 %{color:crimson}This just means you now download the font through the repository ZIP<br>which you can get up top or% "HERE":http://github.com/andreberg/Meslo-Font/archive/master.zip
@@ -75,7 +75,7 @@ Added a dotted zero version of Meslo LG which is called Meslo LG DZ.
 
 v1.2
 
-- reworked all OS/2 metrics to perform uniformely across platforms...  
+- reworked all OS/2 metrics to perform uniformly across platforms...  
 
 - ...which should fix issues with monospace layout and line height on Windows.  
   (tests in Notepad, Eclipse and Visual Studio 2012 Express on Windows 7 x64 SP1  
